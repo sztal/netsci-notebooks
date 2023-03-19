@@ -1,0 +1,17 @@
+source,target
+Alice,Bob
+Alice,Dora
+Alice,Ellie
+Alice,Fred
+Bob,Alice
+Bob,Cedric
+Bob,Fred
+Cedric,Bob
+Cedric,Gina
+Dora,Cedric
+Dora,Gina
+Ellie,Alice
+Ellie,Dora
+Fred,Alice
+Fred,Cedric
+Gina,Cedric
